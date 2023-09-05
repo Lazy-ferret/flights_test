@@ -1,0 +1,20 @@
+{
+    "extends": [
+        "react-app",
+        "react-app/jest"
+      ],
+      "rules": {
+        "react-hooks/exhaustive-deps": "off", 
+        "no-console": "warn", 
+        "quotes": ["warn", "single"],
+        "jsx-quotes": ["warn", "prefer-single"],
+        "prefer-const": "warn",
+        "indent": ["warn", 2],
+        "max-len": ["warn", {"code": 120}], 
+        "semi": ["warn", "always"],
+        "import/order": ["warn", {
+            "groups": ["builtin", "external", "internal",
+        "object" ]
+        }]
+      }     
+}
