@@ -6,3 +6,5 @@
 К заданию прилагается mock файлом со список перелётов, а так же общий вид макета страницы с перечнем фильтров и блоком сортировки.
 Вы можете использовать любой фреймворк на ваше усмотрение или чистый JS.
 Мы не накладываем ограничений на поддержку браузеров.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2a598blvrlo0ldq3/branch/master?svg=true)](https://ci.appveyor.com/project/Lazy-ferret/flights-test/branch/master)
