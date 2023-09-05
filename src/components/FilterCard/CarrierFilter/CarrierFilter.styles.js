@@ -9,7 +9,7 @@ export const CarrierFilterWrapper = styled.div`
     font-weight: 400;
     & div {
         display: flex;
-        height: 16px;
+        height: 18px;
     }
     & label {    
         width: 140px;
@@ -19,5 +19,6 @@ export const CarrierFilterWrapper = styled.div`
         text-overflow: ellipsis;
         padding-bottom: 2px;
         margin-right: 10px;
+        
     }
 `;

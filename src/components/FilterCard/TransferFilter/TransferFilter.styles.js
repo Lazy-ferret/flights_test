@@ -8,6 +8,6 @@ export const TransferFilterWrapper = styled.div`
     font-size: 13px;
     font-weight: 400;
     &:last-child > label {
-        height: 16px
+        height: 18px
     }
 `;
