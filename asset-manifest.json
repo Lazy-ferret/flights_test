@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://lazy-ferret.github.io/flights_test/static/css/main.e6c13ad2.css",
+    "main.js": "https://lazy-ferret.github.io/flights_test/static/js/main.091a3af5.js",
+    "static/js/787.a07e0568.chunk.js": "https://lazy-ferret.github.io/flights_test/static/js/787.a07e0568.chunk.js",
+    "index.html": "https://lazy-ferret.github.io/flights_test/index.html",
+    "main.e6c13ad2.css.map": "https://lazy-ferret.github.io/flights_test/static/css/main.e6c13ad2.css.map",
+    "main.091a3af5.js.map": "https://lazy-ferret.github.io/flights_test/static/js/main.091a3af5.js.map",
+    "787.a07e0568.chunk.js.map": "https://lazy-ferret.github.io/flights_test/static/js/787.a07e0568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.091a3af5.js"
+  ]
+}
