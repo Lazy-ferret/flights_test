@@ -1,3 +1,5 @@
+
+
 # Постановка задачи.
 
 Имеется некая система, которая обрабатывает авиа перелёты. Перелёт — это перевозка пассажира из одной точки в другую с возможными промежуточными посадками. Перелёт можно представить как набор из одного или нескольких элементарных перемещений, называемых сегментами.
@@ -8,3 +10,5 @@
 Мы не накладываем ограничений на поддержку браузеров.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/2a598blvrlo0ldq3/branch/master?svg=true)](https://ci.appveyor.com/project/Lazy-ferret/flights-test/branch/master)
+
+GH deploymentGH deployment https://lazy-ferret.github.io/flights_test/
